@@ -6,7 +6,7 @@ An interactive **cat breed classification web application** built with **Streaml
 This project demonstrates the end-to-end process of **computer vision inference**, from image input to real-time prediction, deployed as a public web app.
 
 🔗 **Live Demo:**
-👉 [https://cat-breed-detector-using-efficientnetv2-s-lt4lwdkf4lwkf6mkkvnq.streamlit.app/](https://cat-breed-detector.streamlit.app/)
+👉 [Cat Breed Detector Web Application](https://cat-breed-detector.streamlit.app/)
 
 ---
 
@@ -78,7 +78,7 @@ streamlit run app.py
 
 This app is deployed using **Streamlit Community Cloud** and can be accessed publicly via the link below:
 
-👉 [https://cat-breed-detector-using-efficientnetv2-s-lt4lwdkf4lwkf6mkkvnq.streamlit.app/](https://cat-breed-detector.streamlit.app/)
+👉 [Cat Breed Detector Web Application](https://cat-breed-detector.streamlit.app/)
 
 ---
 
