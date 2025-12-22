@@ -110,10 +110,10 @@ This app is deployed using **Streamlit Community Cloud** and can be accessed pub
 
 ## 📌 Author
 
-Nabiel Alfallah Herdiana
-Rasyid Abdurrahman
-Yaafi Ferdian Syahputra
-Farhan Alkarimi
+- Nabiel Alfallah Herdiana  
+- Rasyid Abdurrahman  
+- Yaafi Ferdian Syahputra  
+- Farhan Alkarimi
 
 ---
 
