@@ -5,7 +5,7 @@
 An interactive **cat breed classification web application** built with **Streamlit** and powered by a **fine-tuned EfficientNetV2-S deep learning model**.
 This project demonstrates the end-to-end process of **computer vision inference**, from model development to real-time deployment as a public web application.
 
-🔗 **Live Demo:**
+**Live Demo:**
 [Cat Breed Detector Web Application](https://cat-breed-detector.streamlit.app/)
 
 ---
@@ -117,6 +117,6 @@ This app is deployed using **Streamlit Community Cloud** and can be accessed pub
 
 ---
 
-### If you find this project interesting, feel free to give it a star ⭐!
+### If you find this project interesting, feel free to give it a star⭐!
 
 ---
