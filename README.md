@@ -1,16 +1,16 @@
 ---
 
-# 🐱 Cat Breed Detector using EfficientNetV2-S
+# Cat Breed Detector using EfficientNetV2-S
 
 An interactive **cat breed classification web application** built with **Streamlit** and powered by a **fine-tuned EfficientNetV2-S deep learning model**.
 This project demonstrates the end-to-end process of **computer vision inference**, from model development to real-time deployment as a public web application.
 
 🔗 **Live Demo:**
-👉 [Cat Breed Detector Web Application](https://cat-breed-detector.streamlit.app/)
+[Cat Breed Detector Web Application](https://cat-breed-detector.streamlit.app/)
 
 ---
 
-## ✨ Features
+## Features
 
 * Upload a cat image **from local file**
 * Paste an **image URL** for instant prediction
@@ -20,7 +20,7 @@ This project demonstrates the end-to-end process of **computer vision inference*
 
 ---
 
-## 🧠 Model Overview
+## Model Overview
 
 * **Architecture:** EfficientNetV2-S
 * **Framework:** PyTorch
@@ -32,7 +32,7 @@ The trained model is hosted externally on **Hugging Face Hub** and automatically
 
 ---
 
-## 🧪 Model Development (Google Colab)
+## Model Development (Google Colab)
 
 The complete **model training and experimentation pipeline** was developed using **Python in Google Colab**, including:
 
@@ -43,14 +43,14 @@ The complete **model training and experimentation pipeline** was developed using
 * Performance evaluation
 * Model saving for deployment
 
-📓 **Google Colab Notebook (Modeling & Training):**
-👉 [Cat Breed Classification with CNN](https://colab.research.google.com/drive/1AwfTfBSdPDQI-DJv8l1m9WIJxmTJP5YQ)
+**Google Colab Notebook (Modeling & Training):**
+[Cat Breed Classification with CNN](https://colab.research.google.com/drive/1AwfTfBSdPDQI-DJv8l1m9WIJxmTJP5YQ)
 
 This notebook demonstrates the **machine learning workflow behind the deployed model**, complementing the Streamlit inference application.
 
 ---
 
-## 🖼️ How It Works
+## How It Works
 
 1. User uploads an image or pastes an image URL
 2. Image is preprocessed (resize, normalization)
@@ -59,7 +59,7 @@ This notebook demonstrates the **machine learning workflow behind the deployed m
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 * **Python**
 * **PyTorch**
@@ -72,7 +72,7 @@ This notebook demonstrates the **machine learning workflow behind the deployed m
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 cat-breed-detector/
@@ -84,7 +84,7 @@ cat-breed-detector/
 
 ---
 
-## ▶️ Run Locally
+## Run Locally
 
 ```bash
 pip install -r requirements.txt
@@ -93,22 +93,22 @@ streamlit run app.py
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 This app is deployed using **Streamlit Community Cloud** and can be accessed publicly:
 
-👉 [https://cat-breed-detector.streamlit.app/](https://cat-breed-detector.streamlit.app/)
+[https://cat-breed-detector.streamlit.app/](https://cat-breed-detector.streamlit.app/)
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 * Predictions depend on image quality and visual clarity
 * The model focuses on visual features and may confuse visually similar breeds
 
 ---
 
-## 📌 Author
+## Author
 
 - Nabiel Alfallah Herdiana  
 - Rasyid Abdurrahman  
@@ -117,6 +117,6 @@ This app is deployed using **Streamlit Community Cloud** and can be accessed pub
 
 ---
 
-### ⭐ If you find this project interesting, feel free to give it a star!
+### If you find this project interesting, feel free to give it a star ⭐!
 
 ---
